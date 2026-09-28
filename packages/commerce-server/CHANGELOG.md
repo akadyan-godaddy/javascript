@@ -1,5 +1,12 @@
 # @godaddy/gd-commerce-server
 
+## 0.1.1
+
+### Patch Changes
+
+- c0cf16c: Load active catalog products and SKUs in merchant-defined variant order, while keeping inactive product details visible without purchase controls.
+- c0cf16c: Show the draft-order subtotal and explain that shipping, taxes, and discounts are calculated at checkout.
+
 ## 0.1.0
 
 ### Minor Changes
